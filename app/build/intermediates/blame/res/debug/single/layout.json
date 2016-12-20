@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_button.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\view_custom_button.xml"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\view_custom.xml"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_progress.xml",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\layout\\view_custom_progress.xml"
+    }
+]

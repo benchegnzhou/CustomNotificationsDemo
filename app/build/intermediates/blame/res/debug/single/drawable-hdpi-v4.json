@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.png",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_prev.png",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "G:\\ImportantProject\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.png",
+        "source": "G:\\ImportantProject\\Notifications\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    }
+]
